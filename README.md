@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujith Barathi T</h1>
-<h3 align="center">A passionate RTL Design and Design Verification from India</h3>
+<h3 align="center">A passionate RTL Design, Design Verification and Firmware Engineer from India</h3>
 
-- 🌱 I’m currently learning **VLSI Design and Verification**
+- 🌱 I’m currently working **Firmware Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sujithbarathi123](https://github.com/sujithbarathi123)
 
